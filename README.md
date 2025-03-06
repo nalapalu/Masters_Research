@@ -52,14 +52,11 @@ This project examines the vertical structure, storm height distribution, and tem
 
 ## References:
 - Rao et al. (2016): Provided core insights regarding rainfall oscillations and their propagation.
-- Saikranthi and Chiranjeevi (2020, Under review, Atmos. Res.): Discussed CFAD-based reflectivity distribution analyses, examining precipitation vertical structures.
+- Saikranthi and Chiranjeevi (2021): Discussed CFAD-based reflectivity distribution analyses, examining precipitation vertical structures.
 
 ## Authors:
-[Your name or team name here]
-
-## License:
-[Insert applicable license information here]
+Chirajeevi N S
 
 ## Contact:
 For additional information or questions, please reach out to:
-[Insert Contact Information: Email, Affiliation, etc.]
+chiran.nalapalu@gmail.com
