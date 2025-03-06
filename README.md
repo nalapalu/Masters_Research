@@ -1,15 +1,65 @@
-# Masters_Thesis_project
+# README
 
-- Conducted a comprehensive analysis of satellite and reanalysis data sets utilizing MATLAB and Python programming languages.
-- Employed a diverse range of statistical methodologies and visualizations to derive insights from the data.
-- Generated multiple scientific reports and designed technical presentations tailored for an academic audience.
-- Contributed to the publication of a research article in a peer-reviewed scientific journal.
-- Received a highly competitive national science scholarship, the KVPY award (approximately €5000).
+## Project Title:
+Analysis of Monsoon Rainfall Characteristics over the Arabian Sea and Bay of Bengal using TRMM and ERA-5 Data
 
-![image](https://github.com/user-attachments/assets/7504ae2c-ee2c-4241-a584-04b8c69d4b4e)
+## Overview:
+This project examines the vertical structure, storm height distribution, and temporal oscillations of monsoon rainfall over the Arabian Sea (AS) and the Bay of Bengal (BOB). The study focuses on analyzing rainfall variations during the Southwest Monsoon (SWM: June–September) and Northeast Monsoon (NEM: October–December) seasons.
 
-![image](https://github.com/user-attachments/assets/f8c52625-f38f-4477-82e8-4d642a64b119)
+## Objectives:
+- Characterize the vertical structure and storm heights of precipitating systems.
+- Identify rainfall variations and oscillations at intraseasonal scales (3–8 days, 10–20 days, and 30–60 days).
+- Examine qualitative differences in rainfall features during wet and dry spells over the selected domains.
 
-![image](https://github.com/user-attachments/assets/6a35313b-fb04-4099-829c-b55218599c3f)
+## Data Used:
+1. **TRMM PR (Tropical Rainfall Measuring Mission Precipitation Radar) data products:**
+   - 2A25: Spatial resolution 0.05° x 0.05°, vertical resolution 0.25 km.
+   - 3B42: Spatial resolution 0.25° x 0.25°, temporal resolution 3 hours.
+   - Period of data: 16 years (1998–2013), Version 7.
 
-![image](https://github.com/user-attachments/assets/ab5a9db4-2223-4807-b97d-8a8699c9db81)
+2. **ERA-5 Reanalysis data:**
+   - Variables: Total column water vapor, temperature, relative humidity, vertical wind velocity.
+   - Spatial resolution: 0.25° x 0.25°; temporal resolution 1 hour.
+
+3. **Sea Surface Temperature Data:**
+   - Optimum Interpolation Sea Surface Temperature (OISST).
+   - Spatial resolution: 0.25° x 0.25°; temporal resolution 1 day.
+
+## Study Region:
+- Arabian Sea (AS): 8°–20° N, 63°–72° E
+- Bay of Bengal (BOB): 8°–21° N, 83°–92° E
+
+## Key Findings:
+- **Vertical Structure of Precipitation:**
+  - Higher occurrence of shallow rainfall observed below 4 km altitude during dry spells, particularly evident over the Arabian Sea (AS) and Bay of Bengal (BOB) during the Northeast Monsoon (NEM).
+  - Reflectivity occurrence shows a unimodal distribution in NEM and a bimodal distribution in SWM, indicating increased shallow rainfall occurrences transitioning from SWM to NEM over BOB.
+  
+- **Storm Height Distribution:**
+  - Predominance of shallow rain indicated by a peak at 3 km altitude over the AS.
+  - Stratiform rain occurrence marked by a peak at 6 km altitude.
+  - Deep systems observed more frequently during wet spells over both seas.
+
+- **Rainfall Oscillations:**
+  - Monsoon rainfall over India exhibits three distinct time scales of oscillations:
+    - Short-term (3–8 days): linked to synoptic-scale activities.
+    - Intermediate-term (10–20 days): northward propagation of rainy systems.
+    - Long-term (30–60 days): northwestward propagation, correlated to large-scale atmospheric and oceanic processes such as the Madden-Julian Oscillation (MJO).
+
+## Methodology:
+- Analysis based on radar reflectivity profiles (CFADs - Contoured Frequency by Altitude Diagrams) using TRMM PR datasets.
+- Temporal-spatial and spectral analyses of rainfall variations and oscillation modes.
+- Comparative assessment of rainfall features between wet and dry spells, identified using defined rainfall thresholds.
+
+## References:
+- Rao et al. (2016): Provided core insights regarding rainfall oscillations and their propagation.
+- Saikranthi and Chiranjeevi (2020, Under review, Atmos. Res.): Discussed CFAD-based reflectivity distribution analyses, examining precipitation vertical structures.
+
+## Authors:
+[Your name or team name here]
+
+## License:
+[Insert applicable license information here]
+
+## Contact:
+For additional information or questions, please reach out to:
+[Insert Contact Information: Email, Affiliation, etc.]
