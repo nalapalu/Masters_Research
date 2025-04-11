@@ -45,6 +45,9 @@ This project examines the vertical structure, storm height distribution, and tem
     - Intermediate-term (10–20 days): northward propagation of rainy systems.
     - Long-term (30–60 days): northwestward propagation, correlated to large-scale atmospheric and oceanic processes such as the Madden-Julian Oscillation (MJO).
 
+[Slide Deck with results](https://github.com/nalapalu/Masters_Research/blob/main/Chiran_ThesisPresentation.pdf)
+
+
 ## Methodology:
 - Analysis based on radar reflectivity profiles (CFADs - Contoured Frequency by Altitude Diagrams) using TRMM PR datasets.
 - Temporal-spatial and spectral analyses of rainfall variations and oscillation modes.
